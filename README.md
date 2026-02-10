@@ -1,2 +1,2 @@
-# cbpp-metapackage
-Basic metapackage for CrunchBangPlusPlus.
+# oxyos-metapackage
+Basic metapackage for OxyOS.

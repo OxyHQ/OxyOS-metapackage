@@ -1,18 +1,18 @@
-Source: cbpp-metapackage
+Source: oxyos-metapackage
 Section: misc
 Priority: optional
-Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Maintainer: OxyHQ <contact@oxyhq.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
-Homepage: https://crunchbangplusplus.org
+Homepage: https://github.com/OxyHQ/OxyOS-metapackage
 
-Package: cbpp-metapackage
+Package: oxyos-metapackage
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril,
  bash-completion, bc, bzip2, catfish,
- cbpp-configs, cbpp-exit, cbpp-icon-theme, cbpp-lxdm-theme,
- cbpp-pipemenus, cbpp-ui-theme, cbpp-wallpapers, cbpp-welcome,
+ oxyos-configs, oxyos-exit, oxyos-icon-theme, oxyos-lxdm-theme,
+ oxyos-pipemenus, oxyos-ui-theme, oxyos-wallpapers, oxyos-welcome,
  compton, conky-all, cowsay, curl, debconf-utils,
  desktop-base, dmz-cursor-theme, dosfstools, e2fsprogs, eject, figlet,
  file-roller, filezilla, firefox-esr, fonts-freefont-ttf,
@@ -32,5 +32,5 @@ Recommends: abiword, anacron, apt-xapian-index, arandr, arj, atril,
  wmctrl, wireplumber, xdotool, xfburn, xfce4-notifyd,
  xfce4-screenshooter, xfsprogs, xinput, xorg, xscreensaver, xsel,
  xtightvncviewer, xz-utils, zenity, zip
-Description: metapackage for CrunchBangPlusPlus
- Basic metapackage for CrunchBangPlusPlus.
+Description: metapackage for OxyOS
+ Basic metapackage for OxyOS.
