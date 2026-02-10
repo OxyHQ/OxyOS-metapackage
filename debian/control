@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: OxyHQ <admin@oxy.so>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
-Homepage: https://github.com/OxyHQ/OxyOS-metapackage
+Homepage: https://os.oxy.so
 
 Package: oxyos-metapackage
 Architecture: all
